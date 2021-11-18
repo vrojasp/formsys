@@ -1,7 +1,3 @@
-asd
-asd
-asd
-asd
-asd
-asd
-asd
+a = "hello world"
+print (a)
+
