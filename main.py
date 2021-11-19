@@ -1,5 +1,5 @@
 a = "hello world"
-b  = ", GRACIAS POR TODO"
+b  = ", GRACIAS DIOS POR TODO"
 
 print (a+b)
 
